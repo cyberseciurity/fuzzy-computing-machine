@@ -1,0 +1,9 @@
+# clone the repo
+$ git clone https://github.com/thelinuxuser-choice/ip-tracker/
+# change the working directory to Pwned
+$ cd ip-tracker
+# install the requirements 
+$ pip3 install -r requirements.txt
+# or just type this and install the requirements 
+$ pip3 install requests
+python3 ip-tracker.py
