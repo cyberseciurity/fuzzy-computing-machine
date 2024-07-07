@@ -1,0 +1,4 @@
+git clone https://github.com/htr-tech/zphisher.git
+ls
+cd zphisher
+sudo bash ./zphisher.sh
