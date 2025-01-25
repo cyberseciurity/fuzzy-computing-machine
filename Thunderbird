@@ -1,2 +1,2 @@
 sudo apt-get update
-sudo apt-get zainstaluj Thunderbirda
+sudo apt-get install thunderbird
