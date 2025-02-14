@@ -1,4 +1,5 @@
-git clone https://github.com/AzeemIdrisi/PhoneSploit-Pro.git
-cd PhoneSploit-Pro/
-pip install -r requirements.txt
-python3 phonesploitpro.py
+apt install adb
+git clone https://github.com/prbhtkumr/PhoneSploit
+cd PhoneSploit
+pip3 install colorama
+python3 phonesploit.py
