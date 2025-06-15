@@ -1,0 +1,22 @@
+git clone https://github.com/spyboy-productions/r4ven.git
+cd r4ven
+pip3 install -r requirements.txt
+python3 r4ven.py
+
+Użyj następujące polecenie, aby wykonać wykonanie przez r4ven exeable:
+
+chmod +x r4ven.py
+
+    Aby zmienić użycie adresu URL obrazu
+
+python3 r4ven.py [-t target]
+
+    Aby zmienić Port
+
+python3 r4ven.py [-p port]
+
+    Dla obrazu-URL i portu
+
+python3 r4ven.py [-t target] [-p port]
+
+Przykład: python3 r4ven.py -t https://example.com/r4ven/images -p 8000
